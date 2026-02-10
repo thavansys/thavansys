@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/Thavaneshwaran/Thavaneshwaran/main/assets/ml-pipeline.gif" width="600" />
 </p>
 
 
