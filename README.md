@@ -30,18 +30,18 @@ My goal is to become a strong ML/AI engineer by deeply understanding the concept
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Thavaneshwaran" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Thavaneshwaran S" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/Thavaneshwaran" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Thavaneshwaran?logo=github&style=for-the-badge&color=64748b&labelColor=134e4a" /></a>
+<p align="left"> <a href="https://www.github.com/thavansys" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Thavaneshwaran S" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/thavansys" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/thavansys?logo=github&style=for-the-badge&color=64748b&labelColor=134e4a" /></a>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Thavaneshwaran"><img src="https://github-readme-stats.vercel.app/api?username=Thavaneshwaran&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=64748b&bg_color=134e4a&hide_border=true&show_icons=true" alt="Thavaneshwaran's GitHub stats" /></a>
+<a href="http://www.github.com/thavansys"><img src="https://github-readme-stats.vercel.app/api?username=thavansys&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=64748b&bg_color=134e4a&hide_border=true&show_icons=true" alt="Thavaneshwaran's GitHub stats" /></a>
 
-<a href="http://www.github.com/Thavaneshwaran"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thavaneshwaran&stroke=ffffff&background=134e4a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/thavansys"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thavaneshwaran&stroke=ffffff&background=134e4a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Thavaneshwaran" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thavaneshwaran&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=64748b&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/thavansys" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thavansys&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=64748b&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
