@@ -2,17 +2,17 @@
   <tr>
     <!-- Mario GIF - LEFT -->
     <td width="50%" align="center">
-      <img 
+      <img
         src="https://i.redd.it/abcpef5ajpfe1.gif"
-        width="85%"
+        width="80%"
         alt="Mario animation" />
     </td>
 
     <!-- ML GIF - RIGHT -->
     <td width="50%" align="center">
-      <img 
+      <img
         src="https://camo.githubusercontent.com/55d9100efe9414ca7d1e028982d2157e3acd40eba5ba4e502af9e418ae7e7405/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578616e497a64584a30596d566863445530656d5a6a626e686a65544e30624867774f48687762475a32613231304d5464744e6a4e7361695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6775745a35506d36586c363265496635525a2f67697068792e676966"
-        width="85%"
+        width="80%"
         alt="Machine Learning animation" />
     </td>
   </tr>
