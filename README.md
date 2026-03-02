@@ -1,3 +1,25 @@
+<table align="center">
+  <tr>
+    <!-- Mario GIF - LEFT -->
+    <td width="50%" align="center">
+      <img
+        src="https://i.redd.it/abcpef5ajpfe1.gif"
+        width="85%"
+        alt="Mario animation"
+      />
+    </td>
+
+    <!-- Creative GIF - RIGHT -->
+    <td width="50%" align="center">
+      <img
+        src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
+        width="85%"
+        alt="Creative coding animation"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="assets/space-shooter.gif" />
