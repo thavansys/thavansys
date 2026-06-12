@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=THAVANESHWARAN&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=THAVANESHWARAN&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;RAG+System+Developer;FastAPI+Backend+Developer;Machine+Learning+Practitioner;Building+Real-World+AI+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;RAG+System+Developer;FastAPI+Backend+Developer;Machine+Learning+Practitioner;Building+Real-World+AI+Applications"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dthavan628@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=thavansys&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=thavansys&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -43,52 +43,50 @@ class Thavaneshwaran:
         "Machine Learning",
         "Generative AI",
         "RAG Systems",
-        "FastAPI Development"
+        "FastAPI"
     ]
 
     currently_building = [
         "RAG Applications",
         "AI Assistants",
-        "FastAPI Backends",
-        "Machine Learning Solutions"
+        "FastAPI APIs",
+        "Machine Learning Projects"
     ]
 
     learning = [
         "Deep Learning",
-        "MLOps",
         "Agentic AI",
-        "Advanced LLM Systems"
+        "MLOps"
     ]
 
-    mission = "Build AI products that solve real-world problems"
+    mission = "Build useful AI systems that solve real-world problems"
 
     motto = "Learn. Build. Deploy. Repeat."
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# 🚀 What I Build
+# 🚀 What I Do
 
 <table>
 <tr>
-
 <td width="50%">
 
 ### 🤖 Artificial Intelligence
 
 - Retrieval-Augmented Generation (RAG)
-- LLM Applications
 - AI Chatbots
+- LLM Applications
 - Prompt Engineering
 - AI Assistants
 
 ### 📊 Machine Learning
 
-- Disease Prediction
-- Price Forecasting
 - Classification Models
+- Regression Models
 - Feature Engineering
 - Data Analytics
+- Model Evaluation
 
 </td>
 
@@ -96,22 +94,21 @@ class Thavaneshwaran:
 
 ### ⚡ Backend Development
 
-- FastAPI APIs
-- Pydantic Validation
-- REST API Development
-- Database Integration
+- FastAPI
+- Pydantic
+- REST APIs
 - Authentication Systems
+- Database Integration
 
-### 🔬 Research & Learning
+### 🔬 Currently Exploring
 
 - Deep Learning
-- GenAI Systems
+- Agentic AI
 - Vector Databases
+- MLOps
 - AI Infrastructure
-- Agentic Workflows
 
 </td>
-
 </tr>
 </table>
 
@@ -126,7 +123,7 @@ class Thavaneshwaran:
 
 ## 🚀 RAGCore
 
-A modular Retrieval-Augmented Generation framework built using FastAPI, vector databases and LLMs.
+Modular Retrieval-Augmented Generation framework built with FastAPI and LLMs.
 
 </td>
 
@@ -134,7 +131,7 @@ A modular Retrieval-Augmented Generation framework built using FastAPI, vector d
 
 ## 🤖 Multilingual AI Assistant
 
-AI chatbot capable of understanding multiple languages with contextual responses.
+Tamil + English conversational AI assistant.
 
 </td>
 
@@ -146,7 +143,7 @@ AI chatbot capable of understanding multiple languages with contextual responses
 
 ## 💻 CoBrain CLI
 
-AI-powered command line assistant for developers and productivity workflows.
+AI-powered command-line productivity assistant.
 
 </td>
 
@@ -154,11 +151,12 @@ AI-powered command line assistant for developers and productivity workflows.
 
 ## 📈 Disease Prediction System
 
-Machine Learning solution for predictive healthcare analytics.
+Machine Learning healthcare prediction platform.
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -189,7 +187,7 @@ Machine Learning solution for predictive healthcare analytics.
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -211,11 +209,11 @@ Machine Learning solution for predictive healthcare analytics.
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Overview
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thavansys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thavansys&theme=tokyonight" width="100%"/>
 
 </div>
 
@@ -225,7 +223,17 @@ Machine Learning solution for predictive healthcare analytics.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thavansys&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thavansys&bg_color=0d1117&color=00C8FF&line=00C8FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
