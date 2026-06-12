@@ -1,41 +1,264 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=THAVANESHWARAN&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="assets/space-shooter.gif" />
-</p>
+</div>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thavaneshwaran
-=======================================================================================================================================
+<div align="center">
 
-I’m an AI and Machine Learning student focused on building practical projects using Python.
--------------------------------------------------------------------------------------------
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;RAG+System+Developer;FastAPI+Backend+Developer;Machine+Learning+Practitioner;Building+Real-World+AI+Applications" />
 
-I work on real-world ML problems such as disease prediction and price forecasting, and I also explore Generative AI concepts including large language models and prompt engineering.
+</div>
 
-I have hands-on experience using GenAI tools and workflows to understand how modern AI systems generate, reason, and respond.
+<br>
 
-Currently, I’m strengthening my foundation in machine learning algorithms, data preprocessing, model evaluation, and GenAI fundamentals while actively building and publishing projects on GitHub.
+<div align="center">
 
-My goal is to become a strong ML/AI engineer by deeply understanding the concepts and consistently shipping real, working projects.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://thavaneshwaran.org)
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [thavaneshwaran](http://thavaneshwaran.org)
-* ✉️  You can contact me at [dthavan628@gmail.com](mailto:dthavan628@gmail.com)
-* 🧠  I'm currently learning Machine Learning, Deep Learning, Generative AI, and Python
-* 👥  I'm looking to collaborate on Machine Learning and Generative AI projects
-* 💬  Ask me about Focused on building real-world ML and GenAI projects and improving engineering fundamentals.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thavaneshwaran-s-86818a326)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thavansys)
 
-### Socials
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dthavan628@gmail.com)
 
-<p align="left"> <a href="https://www.github.com/thavansys" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/linkedin.com/in/thavaneshwaran-s-86818a326/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/thavansys" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/thavansys?logo=github&style=for-the-badge&color=0891b2&labelColor=365314" /></a>
-### Badges
+![Profile Views](https://komarev.com/ghpvc/?username=thavansys&style=for-the-badge&color=blue)
 
-<b>My GitHub Stats</b>
+</div>
 
-<a href="http://www.github.com/thavansys"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thavansys&stroke=ffffff&background=365314&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+# 👨‍💻 whoami
+
+```python
+class Thavaneshwaran:
+
+    role = "AI Engineer"
+
+    location = "India"
+
+    focus = [
+        "Machine Learning",
+        "Generative AI",
+        "RAG Systems",
+        "FastAPI Development"
+    ]
+
+    currently_building = [
+        "RAG Applications",
+        "AI Assistants",
+        "FastAPI Backends",
+        "Machine Learning Solutions"
+    ]
+
+    learning = [
+        "Deep Learning",
+        "MLOps",
+        "Agentic AI",
+        "Advanced LLM Systems"
+    ]
+
+    mission = "Build AI products that solve real-world problems"
+
+    motto = "Learn. Build. Deploy. Repeat."
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+# 🚀 What I Build
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+- Retrieval-Augmented Generation (RAG)
+- LLM Applications
+- AI Chatbots
+- Prompt Engineering
+- AI Assistants
+
+### 📊 Machine Learning
+
+- Disease Prediction
+- Price Forecasting
+- Classification Models
+- Feature Engineering
+- Data Analytics
+
+</td>
+
+<td width="50%">
+
+### ⚡ Backend Development
+
+- FastAPI APIs
+- Pydantic Validation
+- REST API Development
+- Database Integration
+- Authentication Systems
+
+### 🔬 Research & Learning
+
+- Deep Learning
+- GenAI Systems
+- Vector Databases
+- AI Infrastructure
+- Agentic Workflows
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌟 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🚀 RAGCore
+
+A modular Retrieval-Augmented Generation framework built using FastAPI, vector databases and LLMs.
+
+</td>
+
+<td width="50%">
+
+## 🤖 Multilingual AI Assistant
+
+AI chatbot capable of understanding multiple languages with contextual responses.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 💻 CoBrain CLI
+
+AI-powered command line assistant for developers and productivity workflows.
+
+</td>
+
+<td width="50%">
+
+## 📈 Disease Prediction System
+
+Machine Learning solution for predictive healthcare analytics.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,linux,mysql,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thavansys&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thavansys&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=thavansys&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thavansys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+
+</div>
+
+---
+
+# 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thavansys&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:dthavan628@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/thavaneshwaran-s-86818a326">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/thavansys">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://thavaneshwaran.org">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building AI Systems One Project At A Time
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
