@@ -229,11 +229,11 @@ Machine Learning healthcare prediction platform.
 
 ---
 
-# 🐍 Contribution Snake
+# 🚀 Space Shooter
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="assets/space-shooter.gif" width="100%"/>
 
 </div>
 
