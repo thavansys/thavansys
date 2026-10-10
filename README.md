@@ -206,17 +206,6 @@ A multilingual Retrieval-Augmented Generation application designed to retrieve r
 
 </div>
 
----
-
-# 📊 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thavansys&bg_color=0d1117&color=00C8FF&line=00C8FF&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 # 🚀 Space Shooter
 
