@@ -41,22 +41,9 @@ class Thavaneshwaran:
 
     focus = [
         "Machine Learning",
-        "Generative AI",
-        "RAG Systems",
-        "FastAPI"
-    ]
-
-    currently_building = [
-        "RAG Applications",
-        "AI Assistants",
-        "FastAPI APIs",
-        "Machine Learning Projects"
-    ]
-
-    learning = [
         "Deep Learning",
-        "Agentic AI",
-        "MLOps"
+        "Generative AI",
+        "AI Agents"
     ]
 
     mission = "Build useful AI systems that solve real-world problems"
@@ -121,17 +108,21 @@ class Thavaneshwaran:
 
 <td width="50%">
 
-## 🚀 RAGCore
+## 🔍 AuditLens
 
-Modular Retrieval-Augmented Generation framework built with FastAPI and LLMs.
+AI-powered explainable decision auditor for analyzing decisions, identifying potential biases, and improving transparency.
+
+[View Repository](https://github.com/thavansys/AuditLens)
 
 </td>
 
 <td width="50%">
 
-## 🤖 Multilingual AI Assistant
+## 📊 Machine Learning Projects
 
-Tamil + English conversational AI assistant.
+A collection of machine learning projects covering classification, regression, feature engineering, model training, and evaluation.
+
+[View Profile](https://github.com/thavansys)
 
 </td>
 
@@ -141,17 +132,15 @@ Tamil + English conversational AI assistant.
 
 <td width="50%">
 
-## 💻 CoBrain CLI
+## 🌐 Multilingual RAG
 
-AI-powered command-line productivity assistant.
+A multilingual Retrieval-Augmented Generation application designed to retrieve relevant knowledge and generate context-grounded answers across languages.
+
+[View Profile](https://github.com/thavansys)
 
 </td>
 
 <td width="50%">
-
-## 📈 Disease Prediction System
-
-Machine Learning healthcare prediction platform.
 
 </td>
 
